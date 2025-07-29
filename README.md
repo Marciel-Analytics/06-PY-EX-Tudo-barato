@@ -76,8 +76,7 @@ QUAL O NOME DO PRODUTO MAIS BARATO: Fone de Ouvido
 ## 🛠️ Autor
 
 **Marciel Carlos Medeiros de Oliveira**  
-[LinkedIn](https://www.linkedin.com/in/marciel-carlos-medeiros-de-oliveira-aa093029a)  
-Estudante de Análise de Dados e apaixonado por programação!
+[LinkedIn](https://www.linkedin.com/in/marciel-analytics/)  
 
 ---
 
